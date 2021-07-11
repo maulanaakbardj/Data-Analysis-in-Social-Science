@@ -1,9 +1,9 @@
 # Install Libraries/packages
 
-install.packages("dplyr")
-install.packages("tidyverse")
-install.packages("ggplot2")
-install.packages("jsonlite")
+#install.packages("dplyr")
+#install.packages("tidyverse")
+#install.packages("ggplot2")
+#install.packages("jsonlite")
 
 # Import library
 
